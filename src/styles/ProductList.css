@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
+
+
+@media (min-width: 777px) {
+.producto-list{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    padding-top: 90px; 
+    padding-bottom: 30px;
+}
+    
+}
+
+@media (max-width: 777px) {
+
+    .producto-list{
+        display: flex;
+        flex-wrap: wrap;
+        height: auto; 
+        justify-content: center;
+        align-items: center;
+        padding-top: 110px;
+    
+    }
+
+}

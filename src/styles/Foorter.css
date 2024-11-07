@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&family=PT+Sans+Narrow:wght@400;700&display=swap');
+
+@media (min-width: 777px) {
+ 
+    .footer {
+        display: flex;  
+        background-color: #34383b;
+        font-family: "PT Sans Narrow", sans-serif;
+        font-size: 12px;  
+        color: aliceblue; 
+    }
+    
+    h3 {
+        color: aliceblue;
+    }
+    
+    .footer-section {  
+        display: flex;
+        flex-direction: column;    
+        justify-content: center;
+        align-items: center;
+        width: 100%;  
+    }
+    
+    .footer-section ul {
+        list-style-type: none;
+        padding: 0; 
+        text-align: left;  
+    }
+
+}
+ 
+
+
+
+@media (max-width: 777px) {
+    .footer {
+        display: block;  
+        background-color: #34383b;
+        font-family: "PT Sans Narrow", sans-serif;
+        font-size: 12px;  
+        color: aliceblue;  
+    }
+    
+    h3{
+        
+        padding-top: 10px;
+        color: aliceblue;
+         
+    }
+    
+    .footer-section {    
+        margin: auto;   
+        width: 80%; 
+
+    }
+    
+    .footer-section ul {
+        margin-top: 2px;
+        list-style-type: none; 
+        padding: 0;   
+        display: flex;
+        gap:10px;  
+        align-items:center;
+        justify-content: center; 
+        padding-bottom: 15px;
+        border-bottom: 1px solid #fff;
+    }
+   
+    
+  
+
+}
+ 
