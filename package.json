@@ -9,7 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "start": "json-server --watch db.json --port 5000",
-    "serve": "concurrently \"vite\" \"json-server --watch db.json --port 5000\""
+    "serve": "concurrently \"vite\" \"json-server --watch db.json --port 5000\"",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
@@ -30,6 +32,7 @@
     "eslint-plugin-react": "^7.37.0",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.12",
+    "gh-pages": "^6.2.0",
     "globals": "^15.9.0",
     "json-server": "^1.0.0-beta.3",
     "vite": "^5.4.8"

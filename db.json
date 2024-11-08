@@ -6,7 +6,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 25,
       "amount": 0,
-      "image": "/assets/producto1.jfif",
+      "image": "/mi-tienda-react/assets/producto1.jfif",
       "variations": [
         {
           "size": "S",
@@ -56,7 +56,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 39,
       "amount": 0,
-      "image": "/assets/producto2.jfif",
+      "image": "/mi-tienda-react/assets/producto2.jfif",
       "variations": [
         {
           "size": "S",
@@ -106,7 +106,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 29,
       "amount": 138,
-      "image": "/assets/producto3.jpg",
+      "image": "/mi-tienda-react/assets/producto3.jpg",
       "variations": [
         {
           "size": "S",
@@ -156,7 +156,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 0,
-      "image": "/assets/producto4.jpg",
+      "image": "/mi-tienda-react/assets/producto4.jpg",
       "variations": [
         {
           "size": "S",
@@ -211,7 +211,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 29,
       "amount": 78,
-      "image": "/assets/producto5.jpg",
+      "image": "/mi-tienda-react/assets/producto5.jpg",
       "variations": [
         {
           "size": "S",
@@ -266,7 +266,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 0,
-      "image": "/assets/producto6.jpg",
+      "image": "/mi-tienda-react/assets/producto6.jpg",
       "variations": [
         {
           "size": "S",
@@ -296,7 +296,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 0,
-      "image": "/assets/producto7.jpg",
+      "image": "/mi-tienda-react/assets/producto7.jpg",
       "variations": [
         {
           "size": "S",
@@ -326,7 +326,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 39,
-      "image": "/assets/producto8.jpg",
+      "image": "/mi-tienda-react/assets/producto8.jpg",
       "variations": [
         {
           "size": "S",
@@ -376,7 +376,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 39,
-      "image": "/assets/producto9.jpg",
+      "image": "/mi-tienda-react/assets/producto9.jpg",
       "variations": [
         {
           "size": "28",
@@ -421,7 +421,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 41,
-      "image": "/assets/producto10.jfif",
+      "image": "/mi-tienda-react/assets/producto10.jfif",
       "variations": [
         {
           "size": "S",
@@ -471,7 +471,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 47,
-      "image": "/assets/producto11.jfif",
+      "image": "/mi-tienda-react/assets/producto11.jfif",
       "variations": [
         {
           "size": "S",
@@ -521,7 +521,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 48,
-      "image": "/assets/producto12.jpg",
+      "image": "/mi-tienda-react/assets/producto12.jpg",
       "variations": [
         {
           "size": "S",
@@ -571,7 +571,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 45,
-      "image": "/assets/producto13.jpg",
+      "image": "/mi-tienda-react/assets/producto13.jpg",
       "variations": [
         {
           "size": "S",
@@ -621,7 +621,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 0,
-      "image": "/assets/producto14.jfif",
+      "image": "/mi-tienda-react/assets/producto14.jfif",
       "variations": [
         {
           "size": "S",
@@ -671,7 +671,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 43,
-      "image": "/assets/producto9.jpg",
+      "image": "/mi-tienda-react/assets/producto9.jpg",
       "variations": [
         {
           "size": "S",
@@ -721,7 +721,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 49,
-      "image": "/assets/producto10.jfif",
+      "image": "/mi-tienda-react/assets/producto10.jfif",
       "variations": [
         {
           "size": "S",
@@ -771,7 +771,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 50,
-      "image": "/assets/producto8.jpg",
+      "image": "/mi-tienda-react/assets/producto8.jpg",
       "variations": [
         {
           "size": "S",
@@ -821,7 +821,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 90,
       "amount": 50,
-      "image": "/assets/producto9.jpg",
+      "image": "/mi-tienda-react/assets/producto9.jpg",
       "variations": [
         {
           "size": "S",
@@ -871,7 +871,7 @@
       "description": "Polo con un buen acabado de algodon",
       "price": 25,
       "amount": 0,
-      "image": "/assets/producto1.jfif",
+      "image": "/mi-tienda-react/assets/producto1.jfif",
       "variations": [
         {
           "size": "S",
@@ -1221,7 +1221,7 @@
           "description": "Polo con un buen acabado de algodon",
           "price": 90,
           "amount": 38,
-          "image": "/assets/producto4.jpg",
+          "image": "/mi-tienda-react/assets/producto4.jpg",
           "variations": [
             {
               "size": "S",
@@ -1717,7 +1717,7 @@
           "description": "Polo con un buen acabado de algodon",
           "price": 39,
           "amount": 23,
-          "image": "/assets/producto2.jfif",
+          "image": "/mi-tienda-react/assets/producto2.jfif",
           "variations": [
             {
               "size": "S",
@@ -1774,7 +1774,7 @@
           "description": "Polo con un buen acabado de algodon",
           "price": 39,
           "amount": 21,
-          "image": "/assets/producto2.jfif",
+          "image": "/mi-tienda-react/assets/producto2.jfif",
           "variations": [
             {
               "size": "S",

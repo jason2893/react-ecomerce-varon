@@ -16,7 +16,7 @@ const App = () => {
   const { isCheckingOut, handleCheckout } = useCheckout(cartItems, clearCart,fetchProducts);  
 
   return (
-    <Router>
+    <Router basename="/mi-tienda-react">
       <div className="app-container">
         <Header cartItems={cartItems} onSearch={handleSearch} />
         
